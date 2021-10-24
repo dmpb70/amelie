@@ -1,0 +1,50 @@
+#conteudo{
+background-color: #ffedda;
+width: 750;
+padding: 25;
+margin-left: auto;
+margin-right: auto;
+}
+
+body{
+background-image: url(fundo.png);
+margin: 0;
+}
+h1{
+font-family: trebuchet ms;
+color: #d17683;
+}
+#centro{
+text-align:center;
+}
+h3{
+font-family: trebuchet ms;
+color: #d17683;
+}
+p{
+font-family: tahoma;
+text-align: justify;
+font-size: 13;
+line-height: 2;
+text-indent: 20;
+}
+a:link{
+color:#d17683;
+font-family: tahoma;
+text-decoration: none;
+font-size:13;
+}
+a:visited{
+color:#df9fa9;
+font-family: tahoma;
+font-size:13;
+}
+a:hover{
+color:#ba3f51;
+font-family: tahoma;
+font-size:13;
+}
+
+
+
+
